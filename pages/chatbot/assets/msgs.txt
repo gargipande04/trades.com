@@ -1,16 +1,16 @@
 Welcome Message
 "Welcome to [Exchange Name] Support. How can I assist you today?"
-Account Issues
-Trading Support
-Deposits & Withdrawals
-Security Concerns
-Learn About Cryptocurrency
+Account Issues (0,0)
+Trading Support (1,0)
+Deposits & Withdrawals (2,0)
+Security Concerns (3,0)
+Learn About Cryptocurrency (4,0)
 
 Account Issues
-"What issue are you experiencing with your account?"
-Unable to Log In
+"What issue are you experiencing with your account?" 
+Unable to Log In (0,1)
 "Have you tried resetting your password?"
-Yes (Lead to password reset assistance)
+Yes (Lead to password reset assistance) (0,2) ...
 No (Provide password reset instructions)
 Account Locked
 "For security reasons, please contact support directly via email."
